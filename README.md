@@ -42,8 +42,8 @@
         </p>
         <h2 align="center">About my GitHub data</h2>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
+          <img src="https://github-readme-stats.vercel.app/api?username=hardiantots&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiantots&theme=dark" width="50%" align="left">
         </p>
         <p align="center">
           <a href="https://github.com/hardiantots" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiantots&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
