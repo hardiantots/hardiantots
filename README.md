@@ -49,9 +49,9 @@
           <a href="https://github.com/hardiantots" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiantots&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
         </p>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardiantots&theme=nord_dark">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardiantots&theme=tokyonight">
           <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardiantots&theme=nord_bright">
-          <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardiantots&theme=nord_dark">
+          <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardiantots&theme=tokyonight">
         </picture>
     </div>
 </div>
